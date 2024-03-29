@@ -1,0 +1,12 @@
+10.136.8.20   yjd-mz-aql-8-20.meizu.mz
+10.136.6.169   sz-druid-6-169.meizu.mz
+10.136.6.168   sz-druid-6-168.meizu.mz
+10.136.8.11	yjd-nn-8-11.meizu.mz
+10.136.8.12	yjd-rm-8-12.meizu.mz
+10.136.8.13	yjd-dn-8-13.meizu.mz
+10.136.8.14	yjd-dn-8-14.meizu.mz
+10.136.8.15	yjd-dn-8-15.meizu.mz
+10.136.8.16	yjd-dn-8-16.meizu.mz
+10.136.8.20	yjd-mz-aql-8-20.meizu.mz
+10.136.8.22	yjd-ldap-8-22.meizu.mz
+10.136.8.23	yjd-ldap-8-23.meizu.mz
